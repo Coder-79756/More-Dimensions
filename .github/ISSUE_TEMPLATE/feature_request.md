@@ -1,20 +1,20 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: Feature
-labels: ''
+title: Feature request
+labels: enhancement
 assignees: ''
 
 ---
 
-**Describe what you want to be added**
-A clear and concise description of what you want.
+**What is the problem?**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-**Write the version of mc in which you want it to be added**
-Type it here.
+**What you think that is the solution?**
+A clear and concise description of what you want to happen.
 
-**Rate our mod!**
-You can rate it with: 1 point, 2 points, 3 points, 4 points or 5 points.
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
